@@ -1,4 +1,5 @@
 # codingbat-solutions
+
 📘 CodingBat Java Solutions<br>
 This repository contains structured Java solutions to problems from CodingBat, focusing on practicing and mastering Java programming fundamentals through a Git-based workflow.
 
